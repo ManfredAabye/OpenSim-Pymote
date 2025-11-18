@@ -1,4 +1,7 @@
-# OpenSim-Pymote - Python Remote Control for OpenSimulator
+# ⚠️This is a feasibility study and has no practical use yet
+
+# OpenSim-Pymote
+Python Remote Control for OpenSimulator
 
 **OpenSim-Pymote** provides TCP-based remote control of OpenSimulator from Python.
 
@@ -471,3 +474,4 @@ For issues, questions, or contributions:
    ```
 
 Done! 🎉
+
